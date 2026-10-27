@@ -1,6 +1,6 @@
 <img width="768" height="576" alt="fiesta-dancers" src="https://github.com/user-attachments/assets/10848ef0-0877-4524-aa68-37f667aca859" />
 ---
-# Change these five lines as soon as you copy this starter.
+
 title: Fiesta Dancers
 author: Santiago Gallegos
 category: Starter Essay                  # Public Art
