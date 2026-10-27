@@ -1,10 +1,10 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Fiesta Dancers
-author: Santiago Gallegos
-category: Public Art                  # change to a category from the student guide
-header-image: fiesta-dancers.jpg   # the filename of your own image
-header-caption: UNM Digital Archive
+title:Fiesta Dancers
+author:Santiago Gallegos
+category:Public Art                  # change to a category from the student guide
+header-image:fiesta-dancers.jpg   # the filename of your own image
+header-caption:UNM Digital Archive
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
