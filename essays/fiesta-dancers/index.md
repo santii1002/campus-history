@@ -1,3 +1,4 @@
+
 ---
 A History of the Fiesta Dancers at the University of New Mexico
 One important distinction is necessary at the outset: the University of New Mexico’s “Fiesta Dancers” are a public sculpture, not a university dance troupe. The work, officially titled Fiesta Jarabe, depicts a Mexican couple performing a traditional dance and has become a recognizable landmark on UNM’s Albuquerque campus. Its history connects New Mexico’s cultural identity, public art, and debates over artistic representation.
