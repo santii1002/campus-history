@@ -24,11 +24,11 @@ Today, Fiesta Jarabe, commonly called the “Fiesta Dancers” or “Fiestas Dan
 Its story extends beyond its 1996 installation. The original artistic vision, the public controversy documented that year, and the 2019 restoration demonstrate how a work of art can become part of a university’s cultural identity. The Fiesta Dancers continue to invite viewers to consider Mexican American representation, regional identity, and the role of public art in everyday campus life.
 
 # Change these five lines as soon as you copy this starter.
-title:Fiesta Dancers
-author:Santiago Gallegos
-category:Public Art                  # change to a category from the student guide
-header-image:fiesta-dancers.jpg   # the filename of your own image
-header-caption:UNM Digital Archive
+title: Fiesta Dancers
+author: Santiago Gallegos
+category: Public Art                  # change to a category from the student guide
+header-image: sample-archive-photo.jpg   # the filename of your own image
+header-caption: Replace with where your header image came from. Plain text only, no links.
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
